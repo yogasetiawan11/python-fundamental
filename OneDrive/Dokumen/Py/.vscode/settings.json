@@ -1,3 +1,6 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "workbench.startupEditor": "none",
+    "editor.fontSize": 17,
+    "editor.fontFamily": "poppins"
 }

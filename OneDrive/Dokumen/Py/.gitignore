@@ -1,0 +1,48 @@
+# Ignore system files
+/.bash_history
+/.gitconfig
+/.lesshst
+/.viminfo
+/.vscode/
+/3D Objects/
+/AppData/
+/Contacts/
+/Downloads/
+/Favorites/
+/IntelGraphicsProfiles/
+/Links/
+/Music/
+/NTUSER.DAT
+/NTUSER.DAT*.TM.blf
+/NTUSER.DAT*.TMContainer*
+/.849C9593-D756-4E56-8D6E-42412F2A707B
+
+# Ignore desktop and documents
+/Desktop/
+/Documents/
+/Book*.xlsx
+/Excell 15 rumus penting.xlsx
+/History world war I.docx
+/KingsoftData/
+/Microsoft.Office.2016-2019.iso
+/My Data Sources/
+/My Notebook.url
+/PROJECT FEED IG.xlsx
+/Presentasi.pptx
+
+# Ignore Python and VSCode files
+.vscode/
+/*.pyc
+/python3/
+/*.ipynb
+
+# Ignore sound recordings and other media
+/Sound recordings/
+/Wondershare/
+/Pictures/
+/Videos/
+
+# Ignore application data files
+/ntuser.dat.LOG1
+/ntuser.dat.LOG2
+/ntuser.ini

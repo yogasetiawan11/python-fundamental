@@ -3,10 +3,9 @@ b = 9
 c = a * b
 print(c) 
 
-
 v = input('masukan angka pertama: ')
 w = input('masukan angka kedua: ')
-d = int(v)* int(w)
+d = int(v) + int(w)
 
 
 print('hasil nya adalah:' + str(d))

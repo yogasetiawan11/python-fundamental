@@ -1,4 +1,4 @@
-
+# loop range adalah mengulang print tanpa manulis manual
 
 data = ["jeruk", "nasi", "mangga"]
 for hasil in data:

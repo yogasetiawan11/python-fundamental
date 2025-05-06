@@ -17,7 +17,7 @@ elif age >= 14 and age <= 17:
     print('you are a teenager')
 
 else:
-    print("....exeption ....")
+    print(".... your're child ....")
 
     
    
