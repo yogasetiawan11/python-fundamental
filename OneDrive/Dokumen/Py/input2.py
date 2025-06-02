@@ -1,15 +1,15 @@
 a = 6
 b = 9
-c = a * b
+c = a * b      # looking for result of c in a x b 
 print(c) 
 
 
-v = input('masukan angka pertama: ')
-w = input('masukan angka kedua: ')
+v = input('enter the first number: ')
+w = input('enter the second number: ')
 d = int(v)* int(w)
 
 
-print('hasil nya adalah:' + str(d))
+print('the result is:' + str(d))
 
 
 
