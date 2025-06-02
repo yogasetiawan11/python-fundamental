@@ -3,6 +3,5 @@
 input_nama = input('siapa nama kamu ?')
 print(input(input_nama))
 
-'''Fungsinya lebih ke latihan interaktif dan tools CLI (command-line interface). 
-Untuk minta data dari pengguna saat program berjalan.Jadi, program kamu bisa interaktif,
-bukan cuma jalan sendiri tanpa peduli orang yang pakai. '''
+'''The input() function in Python serves to get data from the user during program execution. 
+It pauses the program and displays a prompt, waiting for the user to type something and press Enter.. '''
