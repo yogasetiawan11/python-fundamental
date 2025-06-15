@@ -1,5 +1,5 @@
 # Python Data Types Explanation #
-## String (str)##
+## String (str) ##
 - Text or sequence of characters enclosed in quotes Can use (') or double (") example "yoga setiawan"
 - String are immutable that means you can't change directly
 - Sting in python also support various for data manipulation such as len() strip() replace() and more
@@ -9,7 +9,7 @@
 - python has three main data types such as (int) (float) (complex)
 - you can perform arithmatic operation on this types like add additional value using +  multipication * and more
 
-## Integer (int)##
+## Integer (int) ##
 - Integer represent Whole numbers without decimal points
 Can be positive or negative without decimal
 __example__
