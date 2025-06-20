@@ -1,9 +1,8 @@
 #  Introduction to Python
-Python is a versatile programming language used in a wide range of applications—from
-web development and automation to data science and artificial intelligence.
+Python is the most populer programming languange out there and it used for so many different industry such as Data science, machine learning, Web devlopment, and Automate repetitive tasks.
 
-This repository contains various Python practice that i've learn. purpose of this files to help strengthen your understanding of Python fundamentals.
-Whether you're a beginner or someone looking to refresh your skills, you'll find simple scripts, exercises, and useful code examples here.
+This repository contains various Python practice focuse on Devops and Cloud that i've learn. 
+purpose of this files to help strengthen your understanding of Python fundamentals.
 
 # Why Learn Python?
 1. Clean and readable syntax
