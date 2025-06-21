@@ -1,0 +1,5 @@
+student = ("jhon de maste")
+upper_text = student.upper()
+lower_text = student.lower()
+print("upper_text is:", upper_text)
+print("lower_text is:", lower_text)
