@@ -64,6 +64,8 @@ this operator allow you to perform Logical operator like AND, OR, NOT
 | True  | False | False   |
 | False | True  | False   |
 | False | False | False   |
+
+
 **Example**
 ```bash
 x = 10
@@ -78,6 +80,8 @@ print ( x < y and y < x ) # False  -> false and true
 | True  | False | True   |
 | False | True  | True   |
 | False | False | False  |
+
+
 **example**
 ```bash
 x = 10
@@ -90,6 +94,8 @@ print ( x < y or y > x ) # False  -> false and true
 | ----- | ----- |
 | True  | False |
 | False | True  |
+
+
 **Example**
 ```bash
 y = 5
