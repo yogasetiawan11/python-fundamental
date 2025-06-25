@@ -1,5 +1,6 @@
 ## Loops (for/while)
- Loops are used to repeteadly run a block of code
+ In programming, loops are fundamental control flow structures that allow you to repeatedly execute a block of code.
+ This is incredibly useful for automating repetitive tasks, processing collections of data, or waiting for certain conditions to be met
 
 ## For Loop
 using ``` for loop ``` to execute block of code a fixed number of times. you can iterate over a range, string, sequence, etc. 
