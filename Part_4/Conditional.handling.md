@@ -39,4 +39,5 @@ elif type == "t2.micro":
 
 else:
     print("instance is not t2")
+#else will appear if the program doesn't match with if/elif
 ```
