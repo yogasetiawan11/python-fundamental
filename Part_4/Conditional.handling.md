@@ -1,5 +1,5 @@
 ## What is conditional handling
-conditioanal handling it says that handling a particular condition
+conditioanal handling it says that handling a particular condition.
 conditional handling involves evaluating an expression that results in a Boolean value (true or false). Based on this evaluation, the program then follows a specific path of execution. The most common constructs for conditional handling are
 
 **Example**
