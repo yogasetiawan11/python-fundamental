@@ -1,5 +1,5 @@
 # Numberic Data Type
-## 1. Numeric Data Types in Python (int, float): ##
+## Numeric Data Types in Python (int, float): ##
 
 - In Python there are two primary numeric data types: integers and floating numbers.
 - Integers are whole numbers, and floats can represent number with decimal
