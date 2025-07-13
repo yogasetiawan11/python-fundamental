@@ -5,7 +5,10 @@
 ## For Loop
 using ``` for loop ``` to execute block of code a fixed number of times. you can iterate over a range, string, sequence, etc. 
 
-**example**
+## Syntax 
+``for variable in sequance:``
+
+**Example**
 ```bash
 student = ("yoga", "maryam","jhon")
 for list in student:
