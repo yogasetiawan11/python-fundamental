@@ -24,6 +24,7 @@ for deployment in deployments:
     if deployment["status"] == "failed":
         print(f"Deployment {deployment['name']} failed. process stopped.")
         break
+        # it will stop the programe
     print(f"Deployment {deployment['name']} status: {deployment['status']}")
 ```
 
