@@ -7,11 +7,11 @@ from requests.auth import HTTPBasicAuth
 import json
 
 # You have to change this link with your Jira account's link
-url = "https://your-domain.atlassian.net/rest/api/3/project"
+url = "https://yogasetiawan11.atlassian.net//rest/api/3/project"
 
 # You have to change this email with yours 
 # put your API token that you Get in Jira 
-API_TOKEN="Put your Jira API here"
+API_TOKEN = "Put your Jira API here"
 
 auth = HTTPBasicAuth("yogasn@gmail.com", API_TOKEN)
 
