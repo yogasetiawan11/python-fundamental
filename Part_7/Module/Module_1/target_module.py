@@ -17,4 +17,4 @@ ec2_instance_3 = {
     'ami_id' : 'ami-1234e3493dgf',
 }
 
-print (ec2_instance_3.get('ami_id'))  # This will print 'app_server_2'
+print (ec2_instance_3.get('instance_type'))  # This will print 'app_server_2'

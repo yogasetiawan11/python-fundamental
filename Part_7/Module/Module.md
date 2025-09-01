@@ -55,10 +55,32 @@ import math
 print(math.sqrt(16))  # Output: 4.0
 ```
 
-## Summary
+# Difference beteween Function, Module, Packages.
+## Function
+Function is a piece of logic that you can use. example:
+```bash
+def yoga():
+```
+## Module
+Module is a collection of code 
+## Package
+Package is a collection of Modules which means if your code are written in multiple files, you can bundle all the files in package. some people called as package, or library
 
-- A module is a Python file containing code (functions, classes, variables).
-- Modules help organize and reuse code.
-- You can import your own modules or use Python’s built-in modules.
+when you want to create module for API request or boto3, Jira, http request, Github. there are people who have already written for this In Pypi (Python Package Image) you can search specific module [here](https://pypi.org)
 
-Modules are a powerful way to keep your Python projects clean, organized, and efficient!
+Using ``pip`` command you can download anything that available in Pypi all of these thing called as Pypi modules and Packages. PIP is simmilar with docker CLI that used to download anything from docker HUB. 
+
+Install pip on Linux machine:
+```bash
+python get-pip.py
+```
+
+use pip to install Boto3
+```bash
+pip install boto3
+```
+```bash
+pip list
+```
+it will list the module that available on the machine
+
